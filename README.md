@@ -1,5 +1,7 @@
 # ⚡ ExAI - Explainable AI Energy Optimization Platform
 
+# Hosted on: https://rushiraj.streamlit.app/
+
 **Production-Ready Autonomous Multi-Agent System for Building Energy Optimization**
 
 ExAI uses a sophisticated three-tier agent architecture powered by **CrewAI + LangChain + Google Gemini** to autonomously monitor, analyze, and optimize energy consumption across Dubai's building portfolio.
